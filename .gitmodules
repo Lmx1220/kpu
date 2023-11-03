@@ -1,9 +1,9 @@
 [submodule "kpu-boot"]
 	path = kpu-boot
-	url = https://github.com/Lmx1220/kpu-boot.git
+	url = git@github.com:Lmx1220/kpu-boot.git
 [submodule "kpu-util"]
 	path = kpu-util
-	url = https://github.com/Lmx1220/kpu-util.git
+	url = git@github.com:Lmx1220/kpu-util.git
 [submodule "vue3-ts"]
 	path = vue3-ts
-	url = https://github.com/Lmx1220/vue3-ts.git
+	url = git@github.com:Lmx1220/vue3-ts.git
